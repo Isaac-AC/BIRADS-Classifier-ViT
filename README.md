@@ -1,0 +1,3 @@
+# BIRADS-Classifier-ViT
+
+This project focuses on the classification of mammograms using the BIRADS scale, employing the Transformer Vision (VIT) model. The aim is to develop an accurate and efficient deep learning system that can categorize mammographic images based on the Breast Imaging Reporting and Data System (BIRADS) guidelines. The integration of the Transformer VIT architecture allows the model to effectively capture spatial dependencies and features in mammograms, enabling robust classification performance. With the implementation of this project, we aim to contribute to the early detection and diagnosis of breast abnormalities through AI-based image analysis.
